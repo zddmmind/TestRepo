@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.orig
+*.idea/
+.vscode
+.project
+.pydevproject
+.settings/
+log/
+hmi/setting.json
+hmi/generate_adapter_config.json
